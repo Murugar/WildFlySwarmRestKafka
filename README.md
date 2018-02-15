@@ -1,3 +1,3 @@
-# WildFly Swarm Rest EJB JaxRS Kafka       
+# WildFly Swarm Rest EJB3.x  JaxRS Kafka       
 
 
